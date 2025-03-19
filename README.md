@@ -36,7 +36,7 @@
 
 <h2 id="data_info">Краткая информация о данных:</h2>
 
-- :arrow_up:[Ноутбук проекта: ](SF_DS_PROJECT3/Project3.ipynb)
+- :arrow_up:[Ноутбук проекта: ](PROJECT3/Project3.ipynb)
   
 - :arrow_up:[Собственно сам датафрейм: ](https://drive.google.com/file/d/183i7HqZIizhg3u1ZCzYwo65TpeObBCMl/view?usp=sharing)
 
@@ -47,7 +47,7 @@
 
 <h2 id="finaly">Выводы: </h2>
 
-:arrow_up:[Конец ноутбука-проекта: ](SF_DS_PROJECT3/Project3.ipynb)
+:arrow_up:[Конец ноутбука-проекта: ](PROJECT3/Project3.ipynb)
 
 
 Если информация по этому проекту покажется вам интересной или полезной, то я буду очень вам благодарен, если отметите репозиторий и профиль ⭐️⭐️⭐️-дами
