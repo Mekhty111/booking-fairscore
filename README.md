@@ -46,7 +46,7 @@
 
 <h2 id="results">Результаты: </h2>  
 
-:arrow_up:[Полученные графики анализа признаков: ](PROJECT_1/Plotly_charts#metrics)
+:arrow_up:[Полученные графики анализа признаков: ](PROJECT3/Project3.ipynb#metrics)
 
 
 <h2 id="finaly">Выводы: </h2>
