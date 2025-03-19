@@ -41,6 +41,8 @@
   
 - :arrow_up:[Собственно сам датафрейм: ](https://drive.google.com/file/d/183i7HqZIizhg3u1ZCzYwo65TpeObBCMl/view?usp=sharing)
 
+- :arrow_up:[Таблциа городов и координат их центра: [](https://drive.google.com/file/d/183i7HqZIizhg3u1ZCzYwo65TpeObBCMl/view?usp=sharing](https://drive.google.com/file/d/19wdswoKYfq9YuC8Aj7uPMYCe3VBFGsE4/view?usp=sharing))
+
 <h2 id="results">Результаты: </h2>  
 
 :arrow_up:[Полученные графики анализа признаков: ](PROJECT_1/Plotly_charts)
