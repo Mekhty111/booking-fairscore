@@ -16,9 +16,7 @@
 
 
 <h2 id="case">Какой кейс решаем?</h2>
-Обратите внимание, что к данному соревнованию создано базовое решение:
-
-Удачи!
+✅ Мы решаем задачу регрессии, целью которой является предсказание оценки отеля на основе данных о текстовых отзывах рецензентов, оставленных в разные промежутки времени. Это позволяет анализировать клиентскую удовлетворённость, выявлять ключевые факторы, влияющие на рейтинг, и прогнозировать будущие оценки.
 
 <h2 id="requirements">Условия соревновния:</h2>
 
@@ -29,6 +27,7 @@
 
   
 <h2 id="metrics">Метрики качества</h2>
+
 ## Метрика качества Результаты оцениваются по метрике MAPE ## Файл представления Для каждого **id** отеля в наборе тестовых данных вы должны предсказать рейтинг отеля для **reviewer_score** переменной. Файл должен содержать заголовок и иметь следующий формат: ``` reviewer_score,id 1,1 ```
 
 <h2 id="practise">Что практикуем?</h2>
@@ -41,7 +40,7 @@
   
 - :arrow_up:[Собственно сам датафрейм: ](https://drive.google.com/file/d/183i7HqZIizhg3u1ZCzYwo65TpeObBCMl/view?usp=sharing)
 
-- :arrow_up:[Таблциа городов и координат их центра: [](https://drive.google.com/file/d/183i7HqZIizhg3u1ZCzYwo65TpeObBCMl/view?usp=sharing](https://drive.google.com/file/d/19wdswoKYfq9YuC8Aj7uPMYCe3VBFGsE4/view?usp=sharing))
+- :arrow_up:[Таблциа городов и координат их центра:](https://drive.google.com/file/d/183i7HqZIizhg3u1ZCzYwo65TpeObBCMl/view?usp=sharing](https://drive.google.com/file/d/19wdswoKYfq9YuC8Aj7uPMYCe3VBFGsE4/view?usp=sharing))
 
 <h2 id="results">Результаты: </h2>  
 
